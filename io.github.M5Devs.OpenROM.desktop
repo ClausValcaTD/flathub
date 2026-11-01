@@ -2,7 +2,7 @@
 Name=OpenROM
 GenericName=ROM Converter
 Comment=Universal ROM Compression Suite for retro gaming
-Exec=gui
+Exec=openrom-wrapper.sh
 Icon=io.github.M5Devs.OpenROM
 Terminal=false
 Type=Application
